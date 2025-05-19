@@ -7,6 +7,7 @@ Ajayu is Peru’s first agri-fintech AI platform—connecting over 800,000 small
 | Folder         | Description |
 |----------------|-------------|
 | `data/`        | Raw and processed agricultural and climate datasets |
+| `data/cenagro` | Raw and ingested datasets for the totallity of the national agrarian cencus 2012 - Peru  |
 | `models/`      | Machine learning models (e.g. farmer behavior, climate risk) |
 | `pipeline/`    | Data ingestion, transformation, and scoring scripts |
 | `notebooks/`   | Analysis and validation notebooks |
